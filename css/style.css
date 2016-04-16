@@ -6,6 +6,12 @@
  * Made By MaterializeCSS.com
  */
 
+.font {
+  font-size: 2em;
+  font-family: 'Nothing You Could Do';
+  padding: 5px;
+}
+
 #index-banner{
   height: 80vh;
 }
