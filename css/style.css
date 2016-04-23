@@ -5,6 +5,11 @@
  *
  * Made By MaterializeCSS.com
  */
+ 
+ .signup-button{
+   float: right;
+   margin-right: 20px;
+ }
 
 .font {
   font-size: 2em;
